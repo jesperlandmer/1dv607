@@ -1,0 +1,8 @@
+/Users/Jesper/1dv607/test/bin/Debug/netcoreapp1.1/test.deps.json
+/Users/Jesper/1dv607/test/bin/Debug/netcoreapp1.1/test.runtimeconfig.json
+/Users/Jesper/1dv607/test/bin/Debug/netcoreapp1.1/test.runtimeconfig.dev.json
+/Users/Jesper/1dv607/test/bin/Debug/netcoreapp1.1/test.dll
+/Users/Jesper/1dv607/test/bin/Debug/netcoreapp1.1/test.pdb
+/Users/Jesper/1dv607/test/obj/Debug/netcoreapp1.1/test.AssemblyInfo.cs
+/Users/Jesper/1dv607/test/obj/Debug/netcoreapp1.1/test.dll
+/Users/Jesper/1dv607/test/obj/Debug/netcoreapp1.1/test.pdb
